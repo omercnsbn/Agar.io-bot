@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        AposBot
 // @namespace   AposBot
-// @include     http://agar.io/
+// @include     http://agario.biz/
 // @version     3.03
 // @grant       none
 // ==/UserScript==
